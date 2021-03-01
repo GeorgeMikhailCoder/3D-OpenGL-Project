@@ -25,8 +25,8 @@ SOIL2-master\lib\windows (или Ваша версия ОС)
 Можно так же скачать более актуальные версии библиотек из других источников, скомпилировать и добавить их в пути проекта.  
   
 ## Примеры работы:  
-Lab1:
+Lab1:  
 ![image](https://user-images.githubusercontent.com/47564437/109459198-676bab00-7a6f-11eb-97a4-c5a93c4c8e53.png)
 
-Lab2:
+Lab2:  
 ![image](https://user-images.githubusercontent.com/47564437/109459391-bdd8e980-7a6f-11eb-8107-0b61f9708e4a.png)
