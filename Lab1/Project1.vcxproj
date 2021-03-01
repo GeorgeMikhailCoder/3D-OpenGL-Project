@@ -99,12 +99,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\georg\Documents\Projects (Visual Studio)\Лабы МИЭТ\Мага 1\3D\glut;C:\Users\georg\Documents\Projects (Visual Studio)\Лабы МИЭТ\Мага 1\3D\glew-2.1\glew-2.1.0\include\GL;C:\Users\georg\Documents\Projects (Visual Studio)\Лабы МИЭТ\Мага 1\3D\SOIL2-master\src\SOIL2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\glut;..\glew-2.1\glew-2.1.0\include\GL;..\SOIL2-master\src\SOIL2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\georg\Documents\Projects (Visual Studio)\Лабы МИЭТ\Мага 1\3D\glut;C:\Users\georg\Documents\Projects %28Visual Studio%29\Лабы МИЭТ\Мага 1\3D\glew-2.1\glew-2.1.0\lib\Release\Win32;C:\Users\georg\Documents\Projects (Visual Studio)\Лабы МИЭТ\Мага 1\3D\SOIL2-master\lib\windows;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>..\glut;..\glew-2.1\glew-2.1.0\lib\Release\Win32;..\SOIL2-master\lib\windows;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glut32.lib;glew32.lib;soil2-debug.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
