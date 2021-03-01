@@ -1,0 +1,2 @@
+﻿  main2.cpp
+LINK : fatal error LNK1104: не удается открыть файл "soil2-debug.lib"
